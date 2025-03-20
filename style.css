@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+.main{
+    padding: 10px;
+    align-items: center;
+}
+.footer{
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+#image{
+    width: 50%;
+    height: 300px;
+    padding-left: 300px;
+}
